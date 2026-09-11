@@ -1,0 +1,15 @@
+sample_id,predicted_class,confidence
+CGVA_0004,mildew,0.399575
+CGVA_0010,mildew,0.242291
+CGVA_0016,mosaic,0.312692
+CGVA_0022,healthy,0.285355
+CGVA_0028,mildew,0.278125
+CGVA_0034,mildew,0.43921
+CGVA_0040,mildew,0.220184
+CGVA_0046,mildew,0.590704
+CGVA_0052,mildew,0.238012
+CGVA_0058,mildew,0.449193
+CGVA_0064,mildew,0.374946
+CGVA_0070,mildew,0.407896
+CGVA_0076,leaf_spot,0.666035
+CGVA_0082,leaf_spot,0.290986
